@@ -4,7 +4,7 @@
 
 # INSTALLATION
 
-wget https://raw.githubusercontent.com/rudi9999/SocksIP-udpServer/main/UDPserver.sh
+wget https://raw.githubusercontent.com/MushfiQ-hacks/mushfiq.github.io/main/socks-udp/UDPserver.sh
 
 chmod +x UDPserver.sh 
 
