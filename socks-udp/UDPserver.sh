@@ -853,7 +853,7 @@ menu_udp(){
 		else
 			estado="\e[1m\e[31m[OFF]"
 		fi
-		echo " $(msg -verd "[1]") $(msg -verm2 '>') $(msg -verm2 'DESINSTALAR UDPserver')"
+		echo " $(msg -verd "[1]") $(msg -verm2 '>') $(msg -verm2 'UNINSTALL UDPserver')"
 		echo -e " $(msg -verd "[2]") $(msg -verm2 '>') $(msg -azu 'START/STOP UDPserver') $estado"
     echo " $(msg -verd "[3]") $(msg -verm2 '>') $(msg -azu 'REOMOVER SCRIPT')"
 		msg -bar3
